@@ -4,6 +4,7 @@ import java.time.Duration;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
+import org.junit.jupiter.api.Disabled;
 import org.junit.jupiter.api.Timeout;
 
 /**
@@ -48,7 +49,7 @@ public class PersonTest
     {
         // aborts the excution of the while loop after 5 seconds
         assertTimeoutPreemptively(Duration.ofSeconds(5), () -> {
-            while(true); // expecting to fail
+            while(true); // fail
         });
     }
     
@@ -58,7 +59,22 @@ public class PersonTest
     {
         for (int i = 0; i < arr.length; i++)
         {
-            System.out.println(arr[i] + i); // expecting to pass
+            System.out.println(arr[i] + i); // pass
         }
+    }
+    
+    @Test
+    public void failing_test()
+    {
+        fail("Fail test");
+        System.out.println("I'm not going to print.");
+    }
+    
+    @Test
+    @Disabled("Skip me for now")
+    public void skip_me()
+    {
+        curstin.setFirst_name("Jack");
+        System.out.println(curstin.getFirst_name());
     }
 }

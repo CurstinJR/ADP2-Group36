@@ -78,6 +78,9 @@ A simple project created to learn about Maven, pom.xml and dependencies. As well
 - [Maven](https://maven.apache.org/) - Dependency Management
 - [JUnit](https://junit.org/junit5/) - Testing Framework
 
+## Setback
+This repository was made private initially and all collaborators successfully forked it, however the repository was switched to public for viewing. While converting to public all the forks were severed but the collaborators were able to merge with my repo.  
+
 ![](https://img.shields.io/badge/jdk-12-red)
 ![](https://img.shields.io/badge/tool-maven-blue)
 ![](https://img.shields.io/badge/junit-platform-brightgreen)

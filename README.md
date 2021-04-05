@@ -14,7 +14,7 @@ A simple project created to learn about Maven, pom.xml and dependencies. As well
               <sub><b>Curstin Rose</b></sub>
           </a>
             <br />
-            <sub>220275408</sub>
+            <sub></sub>
           </td>
         </tr>
 </table>
@@ -32,7 +32,7 @@ A simple project created to learn about Maven, pom.xml and dependencies. As well
                 <sub><b>Mveliso Roto</b></sub>
               </a>
               <br />
-              <sub>214211983</sub>
+              <sub></sub>
             </td>
             <td>
               <a href="https://github.com/martinez-safari">
@@ -41,7 +41,7 @@ A simple project created to learn about Maven, pom.xml and dependencies. As well
                 <sub><b>Martinez Safari</b></sub>
               </a>
               <br />
-              <sub>219325332</sub>
+              <sub></sub>
             </td>
             <td>
               <a href="https://github.com/cameron379">
@@ -50,7 +50,7 @@ A simple project created to learn about Maven, pom.xml and dependencies. As well
                 <sub><b>Cameron Rose</b></sub>
               </a>
               <br />
-              <sub>220263159</sub>
+              <sub></sub>
             </td>
             <td>
               <a href="https://github.com/Noussair-Saidi">
@@ -59,7 +59,7 @@ A simple project created to learn about Maven, pom.xml and dependencies. As well
                 <sub><b>Nussayr El-Baghdadi <br /> Saidi</b></sub>
               </a>
               <br />
-              <sub>220425477</sub>
+              <sub></sub>
             </td>
             <td>
               <a href="https://github.com/Yaaseen22">
@@ -68,7 +68,7 @@ A simple project created to learn about Maven, pom.xml and dependencies. As well
                 <sub><b>Mogammad Yaaseen <br />Safodien</b></sub>
               </a>
               <br />
-              <sub>218336950</sub>
+              <sub></sub>
             </td>
         </tr>
     </tbody>
